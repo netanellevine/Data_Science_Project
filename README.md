@@ -6,9 +6,9 @@ There are 4 parts to this project:
   3) Classification model.
   4) Regression model.
 
-For the Classification model we chose a data-set contains a samples of weather in Australia.  
-The purpose of this model is to predict whether it will be rain tomorrow.
+For the Classification model we chose a data-set  that contains a samples of weather in Australia.   
+The purpose of this model is to predict whether it will rain tomorrow.
 
-For the Regression model we chose a data-set contains a samples of categories regarding to white wine quality.  
+For the Regression model we chose a data-set that contains samples of categories regarding to white wine quality.   
 The purpose of this model is to measure the wine quality.   
 The grade is a number between 0-10, while 10 is the highest quality a wine can get.
